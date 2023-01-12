@@ -1,0 +1,15 @@
+D:\C#Projects\LottoDemo\LottoDemo\bin\Debug\net6.0\LottoDemo.exe
+D:\C#Projects\LottoDemo\LottoDemo\bin\Debug\net6.0\LottoDemo.deps.json
+D:\C#Projects\LottoDemo\LottoDemo\bin\Debug\net6.0\LottoDemo.runtimeconfig.json
+D:\C#Projects\LottoDemo\LottoDemo\bin\Debug\net6.0\LottoDemo.dll
+D:\C#Projects\LottoDemo\LottoDemo\bin\Debug\net6.0\LottoDemo.pdb
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.csproj.AssemblyReference.cache
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.AssemblyInfoInputs.cache
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.AssemblyInfo.cs
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.csproj.CoreCompileInputs.cache
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.dll
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\refint\LottoDemo.dll
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.pdb
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\LottoDemo.genruntimeconfig.cache
+D:\C#Projects\LottoDemo\LottoDemo\obj\Debug\net6.0\ref\LottoDemo.dll
